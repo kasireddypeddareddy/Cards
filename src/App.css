@@ -1,0 +1,16 @@
+.page-center {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px; /* space below header */
+}
+
+.card-row {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.header {
+  text-align: center;
+  padding: 40px 20px 20px;
+}

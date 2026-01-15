@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  border: 2px solid rgb(182, 182, 187);
+  border-radius: 10px;
+ background: linear-gradient(
+    135deg,
+    #bcdff0,   /* light indigo */
+   #c1fcff ,   /* soft white */
+   #bbcef1   /* light cyan */
+  );
+  margin-top: -40px;
+}
+
+.header-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #4f1356;
+  margin-top: -25px;
+}
+
+.header-desc {
+  margin-top: 10px;
+  font-size: 1.1rem;
+  color: #475569;
+}
